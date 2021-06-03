@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two acts of the parliament of Scotland I. An act against the covenants, II. An act concerning masters of colledges &amp;c.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53161</idno><idno type="EEBO-CITATION">27702411</idno>
+  <idno type="VID">110183</idno>
+  <idno type="EEBO-PROQUEST">2240889685</idno>
+  
+            <idno type="STC">Wing N997A</idno>
+            <idno type="STC">ESTC R43478</idno>
+            <idno type="OCLC">27702411</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1730:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two acts of the parliament of Scotland I. An act against the covenants, II. An act concerning masters of colledges &amp;c.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Maxwell, for T. Garthwait ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: News from Scotland.</note>
+                  <note>Advertisement: p. [2].</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110183:1"/>
+            <pb facs="tcp:110183:1"/>
+            <p>
+               <hi>News from</hi> SCOTLAND.</p>
+            <p>TWO ACTS OF THE PARLIAMENT Of <hi>SCOTLAND.</hi>
+            </p>
+            <p n="1">I <hi>An</hi> ACT <hi>against the</hi> COVENANTS.</p>
+            <p n="2">II. <hi>An</hi> ACT <hi>concerning Masters of Colledges,</hi> &amp;c.</p>
+            <figure>
+               <figDesc>arms of Charles II</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Maxwell,</hi> for <hi>T. Garthwait,</hi> at the Kings Head in S. <hi>Pauls</hi> Church-yard, 1662.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:110183:2"/>
+            <p>There is lately published, <hi>An Abandoning of the Scotish Covenant, By</hi> Matthew Wren <hi>the Lord Bishop of</hi> Ely. Sold by <hi>T. Garthwait</hi> at the Kings Head in S. <hi>Pauls</hi> Church-yard.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb n="3" facs="tcp:110183:2"/>
+            <head>ACT FOR PRESERVATION OF His MAJESTIES Person, Authori<g ref="char:EOLhyphen"/>ty and Government. <hi>Edinburgh</hi> 24. <hi>June</hi> 1662.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Estates of Parliament taking to their con<g ref="char:EOLhyphen"/>sideration the Miseries, Confusions, Bon<g ref="char:EOLhyphen"/>dage and Oppressions this Kingdome hath groaned under since the year 1637. with the Causes and Occasions thereof, Do with all humble Duty and Thankfulnesse acknowledg His Majesties unparallelld Grace and Good<g ref="char:EOLhyphen"/>nesse in passing by the many Miscarriages of his Subjects, and Restoring the Church and State to their Ancient Li<g ref="char:EOLhyphen"/>berties, Freedom, Right and Possessions, and the great Obligations thereby lying upon them to expresse all possible care and zeal in the Preservation of His Majesties Person (in whose Honour and Happi<g ref="char:EOLhyphen"/>nesse consists the Good and Welfare of His People) and in the Secu<g ref="char:EOLhyphen"/>rity and Establishment of his Royal Authority and Government a<g ref="char:EOLhyphen"/>gainst all such wicked Attempts and Practises for the time to come.</p>
+            <p>And since the rise and progresse of the late Troubles did in a great measure proceed from some Treasonable and Seditious Positions infu<g ref="char:EOLhyphen"/>sed
+<pb n="4" facs="tcp:110183:3"/> into the People: <hi>That it is Lawful to Subjects for Reformation to enter into Covenants and Leagues, or to take up Armes against the King, or those Commissionat by him,</hi> and such like. And that many wild and rebellious Courses were taken and practised in pursuance thereof, by unlawful Meetings and Gatherings of the people, By mu<g ref="char:EOLhyphen"/>tinous and tumultuary Petitions: By insolent and seditious Protestations against His Majesties Royal and Just Commands: By entring into unlawful Oaths and Covenants: By usurping the Name and Power of Council-Tables and Church Judicatories, after they were by His Majesty discharged: By <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reasonable Declarations, that His Majesty was not to be admitted to the exercise of His Royal Power, until he should grant their unjust desires, and approve their wicked Practises: By the Rebellious Rising in Arms against His Majesty, and such as had Commission from him: And by the great Countenance, Allowance and Encouragement given to these pernicious courses, by the multitude of seditious Sermons, Libels and Discourses, Preached, Printed and Published in defence thereof. And considering, That as the present age is not fully freed of these Distempers, so Posterity may be apt to relapse therein, if timous Remedy be not provided: Therefore the Kings Majesty and Estates of Parliament do Declare, That these Po<g ref="char:EOLhyphen"/>sitions, <hi>That it is lawful to Subjects upon Pretence of Reformation, or other Pretence whatsomever, to enter into Leagues and Covenants, or take up Armes against the King: Or that it is Lawful to Subjects, pre<g ref="char:EOLhyphen"/>tending His Majesties Authority, to take Armes against His Person, or those Commissionat by Him: Or to suspend Him from the Exercise of his Royal Government: Or to put Limitations upon their due Obedience and Allegiance,</hi> are Rebellious and Treasonable: And that all those Gatherings, Convocations, Petitions, Protestations, and erecting and keeping of Council-Tables, that were used in the beginning of, and for carrying on of the late Troubles, were Unlawful and Seditious: And particularly, that those Oaths, whereof the one was commonly called, <hi>The National Covenant,</hi> (as it was sworn and explained in the year 1638, and thereafter) And the other entituled, <hi>A Solemn League and Covenant,</hi> were and are in themselves unlawful Oaths, and were taken by, and imposed upon the Subjects of this Kingdom, against the funda<g ref="char:EOLhyphen"/>mental Laws and Liberties of the same: And that there lieth no Ob<g ref="char:EOLhyphen"/>ligation upon any of the Subjects from the said Oaths, or any of them to endeavor any change or alteration of the Government either in Church or State: And therefore annulls all Acts and Constitutions Ecclesiastical or Civil, approving the said pretended National Covenant
+<pb n="5" facs="tcp:110183:3"/> or League and Covenant, or making any Interpretation of the same or either of them.</p>
+            <p>And also it is hereby declared by His Majesty and Estates of Par<g ref="char:EOLhyphen"/>liament, That the pretended Assembly kept at <hi>Glasgow</hi> in the year 1638, was in it self (after the same was by His Majesty discharged un<g ref="char:EOLhyphen"/>der the pain of Treason) an unlawful and Seditious Meeting: and that all Acts, Deeds, Sentences, Orders or Decrees past therein, or by ver<g ref="char:EOLhyphen"/>tue of any pretended Authority from the same, were in themselves from the beginning, are now, and in all time coming, to be repute unlawful void and null: and that all Ratifications or Confirmations of the same, past by whatsoever Authority, or in whatsoever Meetings, shall from henceforth be void and null.</p>
+            <p>Like as His Majestie and Estates of Parliament, reflecting on the sad consequences of these Rebellious Courses, and being careful to prevent the like for the future, Have therefore Statute and Ordained, and by these presents statutes and ordains, That if any person or persons shall hereafter plot, contrive or intend death or destruction to the Kings Ma<g ref="char:EOLhyphen"/>jesty, or any bodily harm tending to death or destruction, or any restraint upon his Royal Person, or to Deprive, Depose or Suspend from the Stile, Honour or Kingly Name of the Imperial Crowne of this Realm, or any other His Majesties Dominions, or to Suspend him from the Ex<g ref="char:EOLhyphen"/>ercise of his Royal Government, or to Leavy War, or take up Armes against His Majesty, or any Commissionat by him, or shall incite any Strangers or others to invade any of His Majesties Dominions, and shall by Printing, Writing, Preaching or other malicious and advised speil<g ref="char:EOLhyphen"/>ling, expresse or declare such their Treasonable intentions, Every such person or persons, being upon sufficient Probation Legally convict thereof, shall be deemed, declared and adjudged Traytors, and shall suffer forfaulter of Life, Honour, Lands and Goods, as in cases of High Treason.</p>
+            <p>And further it is by His Majesty and Estates of Parliament Declared, Statuted and Enacted, That if any person or persons, shall by Writing Printing, Praying, Preaching, Libelling, Remonstrating, or by any m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>licious and advised speaking, expresse, publish or declare any words or sentences to stir up the people to the hatred or dislike of His Majesty, His Royal Prerogative and Supremacy in Causes Ecclesiastick, or the Government of the Church by Archbishops and Bishops, as it is now setled by Law, or to justifie any of the deeds, actings, practises or things above mentioned, and declared against by this present Act, That every such person or persons so offending, and being as said is,
+<pb n="6" facs="tcp:110183:4"/> legally convict thereof, are hereby declared to be incapable to enjoy or exercise any place or imployment, Civil, Ecclesiastick or Military, in Church or Kingdom, and shall be liable to such further pains as are due by the Law in such cases.</p>
+            <p>Provided alwayes, That no person shall be processed for any of the Offences aforesaid contained in this Act (other then these that are de<g ref="char:EOLhyphen"/>clared to be here Treason) unlesse it be by Order from His Majestie or by order of his Privy Council for the time; neither shall they in<g ref="char:EOLhyphen"/>cur any of the penalties above mentioned, unlesse they be pre<g ref="char:EOLhyphen"/>sented within eight months after the Offence committed, and sen<g ref="char:EOLhyphen"/>tenced thereupon within four months after the inserting of the Processe.</p>
+            <p>And it is also Declared, that if His Majestie grant his Pardon to any person, convict for any the Offences contained in this present Act, after such Pardon, the penalties pardoned shall be restored to all intents and purposes, as if he had never been pursued nor convict, any thing in this Act to the contrary notwithstanding.</p>
+         </div>
+         <div type="act">
+            <pb n="7" facs="tcp:110183:4"/>
+            <head>ACT CONCERNING MASTERS of UNIVERSITIES, <hi>&amp;c. Edinburgh,</hi> 24. <hi>June</hi> 1662.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Kings most Excellent Majesty, according to the lau<g ref="char:EOLhyphen"/>dable example of his Royal Progenitors in former Parli<g ref="char:EOLhyphen"/>aments, doth with Advice and Consent of His Estates conven'd in this present Parliament, ratifie and approve all and whatsoever Acts and Statutes heretofore made, concerning the Liberties and Freedom of the true Church of God, and the Religion now profest and established within this Kingdom; And considering how necessary it is for the advancement of Religion and Learning, for the good of the Church, and peace of the Kingdom, that the Universities and Colledges be provided and served with Professors, Principals, Re<g ref="char:EOLhyphen"/>gents and Masters well affected to His Majesty, and the established Go<g ref="char:EOLhyphen"/>vernment in Church and State, His Majestie with advice aforesaid doth Statute, Ordain and Enact, That from this time forth no Masters, Prin<g ref="char:EOLhyphen"/>cipals, Regents, nor other Professors in Universities or Colledges with<g ref="char:EOLhyphen"/>in the Kingdom, be admitted nor allowed to continue in the exercise of any Function within the same, but such as are of Pious, Loyal and peaceable Conversation, submitting to, and owning the Government of the Church setled by Law, by Archbishops and Bishops, and who ha<g ref="char:EOLhyphen"/>ving given satisfaction therein to the Bishops of the respective Dioceses, and their Patrons, and having in their presence taken the Oath of Allegi<g ref="char:EOLhyphen"/>ance, shall procure the Attestation of the same: That is to say, The Professors and other Masters of the Universities of St. <hi>Andrews, Glas<g ref="char:EOLhyphen"/>gow</hi> and <hi>Aberdeen</hi> to have their Approbation and Attestation of the Archbishops and Bishops, who are the respective Chancellors of the said Universities. And the Professors and Masters of the <hi>Newtown</hi> Colledg of <hi>Aberdeen,</hi> and Colledg of <hi>Edinburgh,</hi> to have the Appro<g ref="char:EOLhyphen"/>bation
+<pb n="8" facs="tcp:110183:5"/> of the respective Patrons, the Earl of <hi>Marshall</hi> and Magistrates of <hi>Edinburgh</hi> and <hi>Aberdeen,</hi> and ane Attestation and Certificate under the hands of the Bishops of <hi>Edinburgh</hi> and <hi>Aberdeen</hi> respective, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they have taken the Oath of Allegeance, and that they are persons who submit to, and own the Church Government as it is now Established by Law.</p>
+            <p>Like as His Majesty finding it necessary for the peace and quiet of the Church, that the Ministers be such as will acknowledg and comply with the Government of the same as now established by Law, doth therefore with advice foresaid Statute and Inact, That whatsoever Minister shall without a lawful excuse to be admitted by his Ordinary, absent himself from the Visitations of the Dioceses, which is to be performed by the Bishop or some of the Ministers to be appointed by him, or from the Diocesian Assembly, or who shall not, according to his duty, concur therein, or who shall not give their assistance in all Acts of the Church Discipline, as they shall be required thereto by the Archbishops or Bi<g ref="char:EOLhyphen"/>shops of the Diocese, every such Minister so offending, shall for the first fault be suspended from his Office and Benefice till the next Dioce<g ref="char:EOLhyphen"/>sian Meeting, and if he amend not, shall be deprived, and the Church and Benefice to be provided as the Law allowes in other cases of Vacancy.</p>
+            <p>And His Majesty considering, that under the pretext of Religious Exercises, divers unlawful Meetings and Conventicles (the Nurseries of Sedition) have been kept in private Families, hath thought fit with ad<g ref="char:EOLhyphen"/>vice foresaid, hereby to declare, That as they do and will give all due encouragement to the Worship of God in Families among the persons of the family, and others who shall be occasionally there for the time: So they do hereby Discharge all private Meetings or Conventicles in houses, which under the pretence of, or for Religious Exercises, may tend to the prejudice of the Publick Worship of God in the Churches, or to the alienating of the people from their lawful Pastors, and that duty and obedience they owe to Church and State: And it is hereby Ordained, That none be hereafter permitted to preach in publick, or in Families within any Diocess, or to teach any publick School, or to be Paedagogues to the children of Persons of Quality, without License from the O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinary of the Diocess.</p>
+         </div>
+         <closer>
+            <signed>
+               <hi>Extracted forth of the Records of Parliament by me Sir</hi> Archibald Primrose <hi>of</hi> Chesters <hi>Knight and Baronet, Clerk of His Maje<g ref="char:EOLhyphen"/>sties Council, Registers and Rolls.</hi>
+            </signed>
+         </closer>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
